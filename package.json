@@ -1,0 +1,21 @@
+{
+  "name": "rolly.db",
+  "version": "1.0.15",
+  "description": "Basit Ve Türkçe Veri Modülü",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rolly",
+    "rollydb",
+    "rolly.db",
+    "database"
+  ],
+  "author": "Roffly",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WynexDev/Rolly.db"
+  },
+  "license": "ISC"
+}
