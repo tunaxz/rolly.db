@@ -27,7 +27,7 @@ module.exports = Schema;
 const rollys = require("rolly.db")
 const DataSchema = require("Schema.js")
 
-new DataSchema("Roffly", 00, 0000000000, "Owner", true, true, true, true)
+new DataSchema("Tunax", 00, 0000000000, "Owner", true, true, true, true)
 
 console.log(rollys.findData("staff").name)
 
