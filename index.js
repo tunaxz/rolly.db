@@ -2,7 +2,7 @@ const fs = require("fs")
 
 /** 
  * 
- * Coded By Roffly
+ * Coded By Tunax
  * 
  */
 
@@ -27,7 +27,7 @@ class rollydb {
 
 /** 
  * 
- * Coded By Roffly
+ * Coded By Tunax
  * 
  */
 
@@ -36,8 +36,8 @@ class rollydb {
         name: "rolly.db",
         type:"database",
         version: "1.0.14",
-        owner: "roffly",
-        developers: ["roffly"],
+        owner: "Tunax",
+        developers: ["Tunax"],
         github: "https://github.com/WynexDev/rolly.db",
         commands: `${Object.entries("./index.js").length}`,
         file: "./json.rolly"
@@ -130,11 +130,11 @@ class rollydb {
 }
 
     coder() {
-        console.log("Coded By Roffly")
+        console.log("Coded By Tunax")
     }
 
     coders() {
-        console.log("Coded By Roffly")
+        console.log("Coded By Tunax")
     }
     push(key, value) {
 
@@ -159,6 +159,6 @@ class rollydb {
 module.exports = new rollydb
 /** 
 * 
-* Coded By Roffly
+* Coded By Tunax
 * 
 */
